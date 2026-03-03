@@ -2,7 +2,7 @@
 
 ## Objetivo:
 
-* Apresentar a conversão da moeda de um país para outra moeda de outro país.
+* Apresentar a conversão da moeda de um país para moeda de outro país.
 
 ## Funcionalidades:
 
@@ -19,3 +19,7 @@
  ### Resultado da conversão:
 
  <img src="https://github.com/suhailaabib/conversor_de_moedas/blob/main/Img/Valor.png" alt="Valor">
+
+ #OBS.: 
+
+ * É necessário você adicionar a sua chave de api, neste projeto; Consegue-se ela através da api ExchangeRate-API.
