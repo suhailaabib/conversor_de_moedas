@@ -20,6 +20,6 @@
 
  <img src="https://github.com/suhailaabib/conversor_de_moedas/blob/main/Img/Valor.png" alt="Valor">
 
- #OBS.: 
+ # OBS.: 
 
- * É necessário você adicionar a sua chave de api, neste projeto; Consegue-se ela através da api ExchangeRate-API.
+ * É necessário você adicionar a sua chave de api, no arquivo BuscaMoeda neste projeto; Consegue-se ela através da api ExchangeRate-API.
